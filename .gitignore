@@ -1,0 +1,16 @@
+backup/*
+output/*
+sembleu/*
+tmp/*
+transition-amr-parser/*
+DATA/*
+SummEval/*
+
+bin/*
+include/*
+lib/*
+share/*
+
+__pycache__/*
+
+*.zip
